@@ -18,13 +18,17 @@ class Footer extends Component {
               {networks}
            </ul>
 
-           <ul>
+           {/* <ul>
             <li>Modified with love by the Clever Programmer team ♥️</li>
-           </ul>
+           </ul> */}
 
-           <ul className="copyright">
+           {/* <ul className="copyright">
               <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+           </ul> */}
+
+           <ul className="copyright">
+             <li>Copyright &copy; 2020 <a>Eren Ay</a></li>
            </ul>
 
         </div>

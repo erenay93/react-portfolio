@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Eren Ay",
+    "occupation": "Software Engineer",
+    "description": "I'm currently employed by a private company where I work as a full stack software engineer across the wide range of products in R&D department.",
+    "image": "eren-ay.1024x1024.jpg",
+    "bio": "My name is Eren, I'm a Full Stack Software Engineer. Currently I'm working at private company while also improving my skill set to be the best",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "mail@erenay.net",
+    "phone": "+90 507 154 48 50",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "",
+      "city": "Istanbul",
+      "state": "Turkey",
+      "zip": "Sile 34980"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.erenay.com.tr",
+    "resumedownload": "http://erenay.com.tr",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/rny93",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/eay/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/ay.eren/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/erenay93",
         "className": "fa fa-github"
       }
     ]
@@ -43,33 +43,39 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Isik University",
+        "degree": "Bachelor of Science in Software Engineering",
+        "graduated": "November 2017",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "-",
+        "title": "Software Engineer / R&D",
+        "years": "August 2017 - Present",
+        "description": "Research & Development on various projects"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "-",
+        "title": "Intern / Software Engineer",
+        "years": "June 2017 - July 2017",
+        "description": "Embedded Systems"
+      },
+      {
+        "company": "-",
+        "title": "Intern / Software Engineer",
+        "years": "January 2015 - February 2015",
+        "description": "MVC, .Net Entity Framework, JQuery"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Java",
         "level": "100%"
       },
       {
-        "name": "CSS",
+        "name": "C#",
         "level": "95%"
       },
       {
@@ -77,7 +83,7 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "JavaScript",
         "level": "55%"
       },
       {
@@ -85,7 +91,7 @@
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "CSS",
         "level": "80%"
       }
     ]
